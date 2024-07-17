@@ -8,10 +8,10 @@
   <artifactId>hello-actions</artifactId>
 
   <!-- UPDATE THE VERSION EACH RELEASE -->
-  <version>1.0.0</version>
+  <version>3.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <groupId>AnuragHarsh1</groupId>
 
   <distributionManagement>
     <repository>
@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <url>https://maven.pkg.github.com/AnuragHarsh1/test-java-cd</url>
 
     </repository>
   </distributionManagement>
